@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah Programmer dengan Entitas Jawa
+Saya adalah Programmer Entitas Jawa
 
 
 ## 🌐 Socials:
