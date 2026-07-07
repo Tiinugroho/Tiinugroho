@@ -6,7 +6,7 @@ Saya adalah **Muhammad Jati Nugroho**, seorang Fullstack Developer yang berspesi
 
 - 🔭 **Currently working on:** Pengembangan web *end-to-end* menggunakan ekosistem PHP (Laravel & CodeIgniter) dan JavaScript (Next.js & Node.js).
 - 🔬 **Research & Publications:** Penulis manuskrip penelitian rekayasa perangkat lunak menggunakan metode *waterfall* yang diterima untuk produksi oleh JATI (Jurnal Mahasiswa Teknik Informatika).
-- 🌱 **Continuous Learning:** Lulusan jalur *Machine Learning* dari Bangkit Academy dan program *Student Developer Initiative* Hacktiv8. Saat ini terus mengeksplorasi ekosistem Vue 3 dan integrasi Python.
+- 🌱 **Continuous Learning:** Lulusan jalur *Machine Learning* dari Bangkit Academy dan program *Student Developer Initiative* Hacktiv8. Saat ini terus mengeksplorasi ekosistem Next JS dan integrasi Python.
 - ⚡ **Fun Fact:** Saya memadukan logika *software engineering* yang ketat dengan keahlian *graphic design* untuk menciptakan solusi digital yang *user-centric*.
 - 📫 **How to reach me:** Mari terhubung melalui LinkedIn untuk kolaborasi!
 
