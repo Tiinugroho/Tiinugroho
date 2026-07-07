@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Jati Nugroho</h1>
-<h3 align="center">Fullstack Developer @ PT Garuda Cyber Indonesia | UI/UX & Graphic Design</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Jati Nugroho</h1>
+<h3 align="left">Fullstack Developer @ PT Garuda Cyber Indonesia | UI/UX & Graphic Design</h3>
 
 # 💫 About Me:
 Saya adalah **Muhammad Jati Nugroho**, seorang Fullstack Developer yang berspesialisasi dalam menjembatani arsitektur *backend* yang tangguh dengan desain UI/UX yang intuitif. Saat ini saya berfokus mengembangkan dan mengoptimalkan aplikasi web di **PT Garuda Cyber Indonesia**. Saya merupakan lulusan *Cumlaude* (IPK 3.8) dari **Universitas Muhammadiyah Riau (Fasilkom UMRI)**.
