@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, Saya Muhammad Jati Nugroho</h1>
-<h2 align="left">Fullstack Web Developer | UI/UX & Graphic Designer | Machine Learning Alumni</h2>
+<h2 align="left">Fullstack Web Developer | UI/UX & Graphic Designer | Machine Learning</h2>
 <p align="left">📍 Pekanbaru, Riau, Indonesia</p>
 
 # 💫 Tentang Saya
