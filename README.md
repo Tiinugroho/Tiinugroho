@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/banner.jpg" alt="Muhammad Jati Nugroho Banner" width="100%" />
+  <!-- <img src="img/banner.jpg" alt="Muhammad Jati Nugroho Banner" width="100%" /> -->
 </div>
 
 <br />
