@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- <img src="img/banner.jpg" alt="Muhammad Jati Nugroho Banner" width="100%" /> -->
+  <img src="img/Krem Merah Muda Hijau Retro Profil Pribadi Linkedin Banner.png" alt="Muhammad Jati Nugroho Banner" width="100%" />
 </div>
 
 <br />
